@@ -23,21 +23,37 @@ Link to application [e-commerce-back-end](https://github.com/LaurenDarrimon/e-co
 ### Installation
 🔧
 In order for this application to work, you need to install the following (dependencies): 
-Node.js, Express.js, MySQL2, Sequelize, and dotenv . 
+Node.js, Express.js, MySQL2, Sequelize, and dotenv.  
+
+After you clone down the repository, install dependencies from the root directory. 
 
 ~~~
 npm install 
+~~~
 
+Then, move into the db/ directory and create the database in MySQL. 
+~~~
 mysql -u root -p
+source schema.sql
+~~~
+
+Next, move back into the root directory and seed your database with the sample data. 
+~~~
+npm run seed
 ~~~
 
 
 ### Usage 
-To run the application from the command line: 
+
+To run the application from the command line of the root directory: 
 
 ~~~
 npm start
 ~~~
+
+To check your API endpoints, open the Insomnia core to test GET, PUT, POST, and DELETE requests for all the routes: categories, products, and tags to see the sample data returned as JSON content. 
+
+![result data displayed in Insomnia core](config/assets/images/insomnia-results.jpg)
 
 
 ### Contributing 
