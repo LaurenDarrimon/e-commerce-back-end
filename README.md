@@ -5,7 +5,7 @@
 ### Description
 Back end for an e-commerce site using Express.js API and Sequelize to interact with a MySQL product database.
 
-### [Watch Video Walkthrough](https://drive.google.com/file/d/1QSdXeAA9331ve5gUgdb4ECrvpH8XlLGY/view?usp=sharing)
+### [Watch Video Walkthrough](https://drive.google.com/file/d/1O0RjBP43Ao_EWZZaeH5GSV_6-PX0tpwn/view?usp=sharing)
 
 ### Table of Contents
 
@@ -47,7 +47,7 @@ npm run seed
 
 ### Usage 
 
-### [Watch Video Walkthrough](https://drive.google.com/file/d/1QSdXeAA9331ve5gUgdb4ECrvpH8XlLGY/view?usp=sharing)
+### [Watch Video Walkthrough](https://drive.google.com/file/d/1O0RjBP43Ao_EWZZaeH5GSV_6-PX0tpwn/view?usp=sharing)
 
 To run the application from the command line of the root directory: 
 
