@@ -5,6 +5,8 @@
 ### Description
 Back end for an e-commerce site using Express.js API and Sequelize to interact with a MySQL product database.
 
+### [Watch Video Walkthrough](https://drive.google.com/file/d/1QSdXeAA9331ve5gUgdb4ECrvpH8XlLGY/view?usp=sharing)
+
 ### Table of Contents
 
 * [Link](#link)
@@ -45,6 +47,8 @@ npm run seed
 
 ### Usage 
 
+### [Watch Video Walkthrough](https://drive.google.com/file/d/1QSdXeAA9331ve5gUgdb4ECrvpH8XlLGY/view?usp=sharing)
+
 To run the application from the command line of the root directory: 
 
 ~~~
@@ -53,7 +57,7 @@ npm start
 
 To check your API endpoints, open the Insomnia core to test GET, PUT, POST, and DELETE requests for all the routes: categories, products, and tags to see the sample data returned as JSON content. 
 
-![result data displayed in Insomnia core](config/assets/images/insomnia-results.jpg)
+![result data displayed in Insomnia core](assets/images/insomnia-results.jpg)
 
 
 ### Contributing 
